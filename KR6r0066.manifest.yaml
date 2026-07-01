@@ -1,0 +1,263 @@
+canonical_identifier: bkk:krp/KR6r0066/v1
+canonical_location: https://kanripo.org/bkk/KR6r0066/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 弘贊法華傳
+  identifiers:
+    alt_id:
+    - T51n2067
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2067.xml
+    old_id: T51n2067
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0066_000.yaml, hash: 'sha256:06fe2b63c83c9dbb98dacb74140a2c8de88f65cfadb6c81e0bdda9066969d2e5'}
+  - {seq: 1, filename: KR6r0066_001.yaml, hash: 'sha256:48e536ae5568605bb4fa78a5bddbd19f11005a3629df1ed480f442c92ac0404b'}
+  - {seq: 2, filename: KR6r0066_002.yaml, hash: 'sha256:41c09a098d7655753cdab2019ca65757c7af97c44cafa96b4fe01757b6f72e95'}
+  - {seq: 3, filename: KR6r0066_003.yaml, hash: 'sha256:0e9b3ff5363e71561549e111d307861569d3e8c7c6e7f61d9b282744561c7e2d'}
+  - {seq: 4, filename: KR6r0066_004.yaml, hash: 'sha256:5d3d29e1f300e0e99029c0a84612add63e40299d5eef3dc37cbb3a430b1cdb99'}
+  - {seq: 5, filename: KR6r0066_005.yaml, hash: 'sha256:2b22a69d785b71571031ad2b61caad791ac7a4c28150091f743ec35a6efc2fb3'}
+  - {seq: 6, filename: KR6r0066_006.yaml, hash: 'sha256:7f61e5048c0ffa92780286d700979692a387080b1ff0424352cebc24f6b0f100'}
+  - {seq: 7, filename: KR6r0066_007.yaml, hash: 'sha256:664b2c6a45866cb0ed8665b14cc72c633ba9903a31184050f31dd6f21b36fffe'}
+  - {seq: 8, filename: KR6r0066_008.yaml, hash: 'sha256:b776f26e1a56152100c6f7f4c770ff85986be47bc3bbb147220a0d50b538889c'}
+  - {seq: 9, filename: KR6r0066_009.yaml, hash: 'sha256:92b0e1da7a1f20c9dbf977be262edeb6cfe73372cb8917524bab1a9c1b7ddf30'}
+  - {seq: 10, filename: KR6r0066_010.yaml, hash: 'sha256:cb383f056578fed068aeaa7b3e7c5f6a5f6d453e54186cac69ea00c57ae59546'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0066_001.markers.yaml, hash: 'sha256:08851f10f148f4c36b69f12b5f161ae77f916351092b801e8ba8b7cd088a5439'}
+  - {seq: 2, role: markers, filename: assets/KR6r0066_002.markers.yaml, hash: 'sha256:eb47f61ebb56fdd09b56160a5e1fbc78731a0bac0bed9660259d83e36bf480c2'}
+  - {seq: 3, role: markers, filename: assets/KR6r0066_003.markers.yaml, hash: 'sha256:8df7521d7f0cfae4fe089b28049c1ded19796ea0bf899bb9bdef592272c72bb7'}
+  - {seq: 4, role: markers, filename: assets/KR6r0066_004.markers.yaml, hash: 'sha256:5ad79ace0e104321300e28eef54e78b9ade049a73ed7f3d0142e7f7c35a232c0'}
+  - {seq: 5, role: markers, filename: assets/KR6r0066_005.markers.yaml, hash: 'sha256:8361bc4e270dba69abdf47cf8206bc21ebd94277966c7205bea66e34c4e49ca7'}
+  - {seq: 6, role: markers, filename: assets/KR6r0066_006.markers.yaml, hash: 'sha256:c8c6befd67b09ef13df48a4cb7f868d3dae3ef45d93ef75ad809006204ad9407'}
+  - {seq: 7, role: markers, filename: assets/KR6r0066_007.markers.yaml, hash: 'sha256:5629c6a2a4b8957211fe5562350d191a9099243c6cd1fffedb30b28120e75747'}
+  - {seq: 8, role: markers, filename: assets/KR6r0066_008.markers.yaml, hash: 'sha256:cfa0c930405b21e5b12ea17f92172d9d97c5933f5a9acbdb6c4bca6ff3dfafc3'}
+  - {seq: 9, role: markers, filename: assets/KR6r0066_009.markers.yaml, hash: 'sha256:6376875dd13b7e994f81f236f2ad1c5d8007a0ef7e10f6e9e08bd11962765f71'}
+  - {seq: 10, role: markers, filename: assets/KR6r0066_010.markers.yaml, hash: 'sha256:9f8da493890a7fd21f9e5423a4fecdc003fb7346786049a0da44471d98af3310'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0066_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2564
+  label: 弘贊法華傳卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0066_T_001-mulu-1
+    span:
+    - body
+    - 69
+    - 69
+  label: 1 圖像
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0066_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4507
+  label: 弘贊法華傳卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0066_T_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 2 翻譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0066_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5195
+  label: 弘贊法華傳卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0066_T_003-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 3 講解
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0066_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 2692
+  label: 弘贊法花傳卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0066_T_004-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 4 修觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0066_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 4420
+  label: 弘贊法花傳卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0066_T_005-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 5 遺身
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0066_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6162
+  label: 弘贊法華傳卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0066_T_006-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 6 誦持
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0066_T_006-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0066_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5470
+  label: 弘贊法華傳卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0066_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 6887
+  label: 弘贊法華傳卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0066_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 2773
+  label: 弘贊法華傳卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0066_T_009-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 7 轉讀
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0066_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8312
+  label: 弘贊法華傳卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0066_T_010-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 8 書寫
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0066_T_010-mulu-2
+    span:
+    - body
+    - 7614
+    - 7614
+  label: 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0066_T_010-mulu-3
+    span:
+    - body
+    - 7616
+    - 7616
+  label: 天台法華疏序
+  type: mulu
+  level: 1
+hash: sha256:1bb2cd6f53455663683e4911774c347e1dcd73739bb2f274b2f389755ee7412a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
